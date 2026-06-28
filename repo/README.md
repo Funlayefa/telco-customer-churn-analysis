@@ -253,4 +253,4 @@ GitHub can't render `.pbix` files inline, so visitors will need to download it t
 
 **[John Blessing]**
 Data Analyst | Power BI · SQL · Python
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+[[LinkedIn](https://www.linkedin.com/in/blessing-john-6b50322a9)](#) · [Portfolio](#) · [funlayefajohn432@gmail.com](#)
