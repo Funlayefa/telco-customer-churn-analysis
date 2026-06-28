@@ -1,0 +1,17 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Power BI temp/cache files
+*.pbix.lock
+~$*.pbix
+*.pbiviz.cache
+
+# Python (only relevant if you re-run the chart-generation script)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editor/IDE
+.vscode/
+.idea/
